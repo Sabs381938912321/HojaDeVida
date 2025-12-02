@@ -1,4 +1,4 @@
-﻿namespace HojaDeVida.Models.DBContext
+﻿namespace HojaDeVida.Models.Infraestructura.DBContext
 {
     public class AplicationDbcontext
     {

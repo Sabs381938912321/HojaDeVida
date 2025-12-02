@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\wwwroot\\vendor\\php-email-form\\validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:wwwroot\\vendor\\php-email-form\\validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\hojadevida.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:hojadevida.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|c:\\repositorio\\hojadevida\\hojadevida\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{715D131D-9DB7-E370-7B57-E69254B1CC7E}|HojaDeVida.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "validate.js",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\wwwroot\\vendor\\php-email-form\\validate.js",
+              "RelativeDocumentMoniker": "wwwroot\\vendor\\php-email-form\\validate.js",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\wwwroot\\vendor\\php-email-form\\validate.js",
+              "RelativeToolTip": "wwwroot\\vendor\\php-email-form\\validate.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T23:29:25.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:46:31.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T20:20:41.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwHsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T21:22:30.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T20:43:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T20:44:04.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T20:44:07.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T20:44:09.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HojaDeVida.csproj",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\HojaDeVida.csproj",
+              "RelativeDocumentMoniker": "HojaDeVida.csproj",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\HojaDeVida.csproj",
+              "RelativeToolTip": "HojaDeVida.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T21:03:25.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Repositorio\\HojaDeVida\\HojaDeVida\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFQDAAAAAAAAAAAUwMUFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-01T21:10:12.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
